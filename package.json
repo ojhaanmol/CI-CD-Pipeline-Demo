@@ -1,0 +1,16 @@
+{
+  "name": "ci-cd-pipeline-demo",
+  "version": "1.0.0",
+  "description": "creating and observing CI/CD pipleine with simple express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "PORT=3000 node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
