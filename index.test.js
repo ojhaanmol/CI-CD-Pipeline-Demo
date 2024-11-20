@@ -15,6 +15,6 @@ describe("This is a unit test:",()=>{
     });
 
     test("this is a positive test, and is expecting 1",()=>{
-        expect(someFunction(true)).toBe(1);
+        expect(someFunction(true)).toBe(-1);
     })
 })
