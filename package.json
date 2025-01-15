@@ -1,6 +1,6 @@
 {
   "name": "ci-cd-pipeline-demo",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "creating and observing CI/CD pipleine with simple express application",
   "main": "index.js",
   "scripts": {
